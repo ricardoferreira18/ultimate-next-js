@@ -1,0 +1,1 @@
+import { PgTable, serial, text } from "drizzle-orm/pg-core";
